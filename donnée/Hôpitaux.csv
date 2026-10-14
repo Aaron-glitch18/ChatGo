@@ -1,0 +1,59 @@
+﻿web_scraper_order,web_scraper_start_url,pagination,data,data2,data3,data4,data5,data6,data7,data8,data9
+"1785757510-1","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CENTRE ANTI ULCERE DE BURULI","drafts 
+                                      06 BP 2546","call 
+                                      22 50 24 38","","location_off","Géolocalisation indisponible","drafts","call",""
+"1785757510-2","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CENTRE HOSPITALIER UNIVERSITAIRE DE COCODY","my_location Cocody, Boulevard de l’Université de Cocody","drafts 
+                                      BP v 13 Abidjan","call 
+                                      22 44 90 00 / 22 44 90 38","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-3","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CENTRE HOSPITALIER UNIVERSITAIRE DE TREICHVILLE","my_location Abidjan, Boulevard De Marseille","drafts 
+                                      01 Bp V 03 Abidjan 01","call 
+                                      225 21 24 91 22  / 225 21 25 65 70","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-4","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CENTRE HOSPITALIER UNIVERSITAIRE DE YOPOUGON","my_location Abidjan, yopougon","drafts 
+                                      Abidjan 21 BP 632 Abidjan","call 
+                                      23 46 64 54 / 23 46 61 70","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-5","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CENTRE NATIONAL ANTI TUBERCULEUX","my_location Abidjan Adjamé à côté de l’INSP","drafts 
+                                      01 BP v 123 Abidjan 01","call 
+                                      20 37 94 26","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-6","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CHR DE BONDOUKOU","my_location Bondoukou","call 
+                                      35 91 51 78 /35 91 51 79","","location_off","Géolocalisation indisponible","my_location","call",""
+"1785757510-7","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CHR DE BOUAFLE","my_location BOUAFLE","drafts 
+                                      BP 605","call 
+                                      30 68 93 43 /30 68 91 35","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-8","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CHR DE DALOA","my_location DALOA","drafts 
+                                      BP 207","call 
+                                      32 78 22 90 / 32 78 36 23","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-9","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CHR DE DIMBOKRO","my_location DIMBOKRO","drafts 
+                                      BP 274","call 
+                                      30 62 50 33 / 30 62 52 11","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757510-10","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","","CHR DE DIVO","my_location DIVO","drafts 
+                                      BP 240","call 
+                                      32 76 03 53 /32 76 00 97","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-11","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CHR DE GAGNOA","my_location GAGNOA","drafts 
+                                      BP 60","call 
+                                      32 77 23 62","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-12","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CHR DE GUIGLO","my_location GUIGLO","drafts 
+                                      BP 47","call 
+                                      33 7050 63 /33 70 51 34","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-13","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CHR DE SAN-PEDRO","my_location SAN-PEDRO","drafts 
+                                      01 BP 366","call 
+                                      34 71 07 68 / 34 71 17 42","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-14","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CHR DE YAMOUSSOUKRO","my_location YAMOUSSOUKRO","drafts 
+                                      BP 1005","call 
+                                      30 64 01 26 / 30 64 00 33","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-15","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CHR ODIENNE","my_location ODIENNE0","drafts 
+                                      BP 03","call 
+                                      33 70 81 95 /33 70 84 6","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-16","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CHU DE BOUAKE","my_location Bouaké","drafts 
+                                      01 BP 12885","call 
+                                      31 63 21 90 / 31 63 53 50 / 31 63 53 49","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757517-17","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CLINIQUE AVICENNE","my_location Abidjan Marcory","call 
+                                      21 26 04 16","","location_off","Géolocalisation indisponible","my_location","call",""
+"1785757517-18","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","CMC BIETRY","my_location Abidjan, Marcory BIETRY","call 
+                                      21 25 25 60 / 21 35 62 47","","location_off","Géolocalisation indisponible","my_location","call",""
+"1785757517-19","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","HOPITAL DE PORT BOUET","my_location Abidjan, Port Bouet","call 
+                                      21 27 85 00","","location_off","Géolocalisation indisponible","my_location","call",""
+"1785757517-20","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/2","HOPITAL PROTESTANT DE DABOU","my_location Dabou, Non loin de Dabou","drafts 
+                                      BP 115","call 
+                                      23 57 23 15","location_off","Géolocalisation indisponible","my_location","drafts","call"
+"1785757521-21","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics","https://annuaire.gouv.ci/accueil/liste_institution/hpitaux-publics/3","PISAM","my_location Abidjan, Cocody","call 
+                                      22 44 51 32 - 22 44 30 10","","location_off","Géolocalisation indisponible","my_location","call",""
