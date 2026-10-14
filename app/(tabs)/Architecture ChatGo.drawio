@@ -1,0 +1,210 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="E7XdsddmKDfoArlkfMf5">
+    <mxGraphModel dx="2764" dy="4538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BUSwYx_iILDVWNsFizwX-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+          <mxGeometry height="601" width="860" x="191.5" y="-1470" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+          <mxGeometry height="425" width="1010" x="102.13" y="-2150" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ARCHITECTURE DE L&#39;APPLICATION CHAT&amp;amp;GO&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="560" x="595.5" y="-2290" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FRONTEND(React Native)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="452.13" y="-2130" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;rotation=0;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="240" width="336.5" x="150" y="-2060" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;arcSize=11;align=left;spacingTop=100;spacingRight=200;strokeColor=#56517e;" value="&lt;div style=&quot;text-align: justify; padding-top: 0px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="295" x="168" y="-2020" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Ecran de Chat" vertex="1">
+          <mxGeometry height="30" width="100" x="265.5" y="-2055" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font&gt;bot: Bonjour&amp;nbsp; et bienvenue sur Chat&amp;amp;Go...Comment puis - vous aidez?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="189" x="186.5" y="-1997.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Utilisateur: J&#39;ai besoin d&#39;un d&#39;une pharmacie de garde urgemment...&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="189" x="265.5" y="-1932.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-14" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;rotation=0;verticalAlign=top;align=center;fontSize=14;strokeColor=#10739e;" value="&lt;font&gt;Structuration et Envoi&lt;/font&gt;" vertex="1">
+          <mxGeometry height="240" width="336.5" x="715" y="-2055" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516.5" y="-1935" as="sourcePoint" />
+            <mxPoint x="676.5" y="-1935" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-21" connectable="0" parent="BUSwYx_iILDVWNsFizwX-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Organisation et envoie&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0225" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;arcSize=11;align=left;spacingTop=100;spacingRight=200;strokeColor=#56517e;" value="&lt;div style=&quot;text-align: justify; padding-top: 0px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="162.5" width="295" x="735.75" y="-2025" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-33" edge="1" parent="1" source="BUSwYx_iILDVWNsFizwX-14" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883.29" y="-1720" />
+              <mxPoint x="610" y="-1720" />
+            </Array>
+            <mxPoint x="606.6" y="-1610" as="sourcePoint" />
+            <mxPoint x="610" y="-1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-39" connectable="0" parent="BUSwYx_iILDVWNsFizwX-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="POST&lt;div&gt;/&lt;/div&gt;&lt;div&gt;JSON&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0333" as="geometry">
+            <mxPoint x="-74" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-35" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" value="" vertex="1">
+          <mxGeometry height="55" width="20" x="570" y="-1640" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-36" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;size=0.5;" value="" vertex="1">
+          <mxGeometry height="55" width="20" x="630" y="-1640" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-40" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: rgb(211, 213, 214);&quot;&gt;BACKEND (N8N)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="178" x="518.13" y="-1450" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="-1350.59" />
+            </Array>
+            <mxPoint x="430" y="-1350" as="sourcePoint" />
+            <mxPoint x="510" y="-1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="AGENT IA" vertex="1">
+          <mxGeometry height="60" width="120" x="555" y="-1370" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Arriver de reponse au WEBHOOK" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="-1370" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;arcSize=10;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="290" width="430" x="414" y="-1200" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;align=center;strokeColor=#0e8088;" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="390" width="440" x="880" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-76" edge="1" parent="1" source="BUSwYx_iILDVWNsFizwX-72" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="-600" as="sourcePoint" />
+            <mxPoint x="1050" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-77" connectable="0" parent="BUSwYx_iILDVWNsFizwX-76" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="ENVOIE DE REPONSE&lt;div&gt;JSON&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-78" parent="1" style="whiteSpace=wrap;html=1;fillColor=#b1ddf0;rotation=0;strokeColor=#10739e;" value="" vertex="1">
+          <mxGeometry height="240" width="336.5" x="927.25" y="-640" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;arcSize=11;align=left;spacingTop=100;spacingRight=200;strokeColor=#56517e;" value="&lt;div style=&quot;text-align: justify; padding-top: 0px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="295" x="948" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Ecran de Chat" vertex="1">
+          <mxGeometry height="30" width="100" x="1045.5" y="-635" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font&gt;bot: J&#39;ai belle et bien trouver des pharmacie de garde&amp;nbsp; parmi lesquelles se trouve...&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="189" x="966.5" y="-577.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Utilisateur: ...&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="85" x="1120" y="-500" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FRONTEND AFFICHAGE DES REPONSES" vertex="1">
+          <mxGeometry height="30" width="282" x="961" y="-695.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; Envoie()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;CallAPI()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="233.75" x="766.38" y="-2003.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-100" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="854.87" y="-1942.5" as="sourcePoint" />
+            <mxPoint x="911.62" y="-1942.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-102" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.588;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="BUSwYx_iILDVWNsFizwX-104" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564" y="-1290" as="sourcePoint" />
+            <mxPoint x="554" y="-1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-103" connectable="0" parent="BUSwYx_iILDVWNsFizwX-102" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Requête SQL" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-104" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d0cee2;strokeColor=#56517e;" value="Restaurant&lt;div&gt;Site touristique&lt;/div&gt;&lt;div&gt;Pharmacie&lt;/div&gt;" vertex="1">
+          <mxGeometry height="89" width="85" x="484" y="-1180" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-105" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754" y="-1083" as="sourcePoint" />
+            <mxPoint x="784" y="-1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-106" connectable="0" parent="BUSwYx_iILDVWNsFizwX-105" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="HTTP REQUEST" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="SERPAPI" vertex="1">
+          <mxGeometry height="60" width="120" x="714" y="-990" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-108" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;size=30;fillColor=#d0cee2;strokeColor=#56517e;" value="si la donnée relative n&#39;exsite pas dans la BD" vertex="1">
+          <mxGeometry height="80" width="120" x="670.13" y="-1175.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-109" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="BUSwYx_iILDVWNsFizwX-108" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670.5" y="-1290" as="sourcePoint" />
+            <mxPoint x="695.5" y="-1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Base de Donnée" vertex="1">
+          <mxGeometry height="30" width="60" x="414" y="-1140" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;color: rgb(197, 200, 198); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(197, 200, 198); background-color: rgb(30, 30, 30); line-height: 19px;&quot;&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;if&lt;/span&gt; (&lt;span style=&quot;color: #676867;&quot;&gt;!&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;question&lt;/span&gt;.&lt;span style=&quot;color: #ce6700;&quot;&gt;trim&lt;/span&gt;()) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9b0000;&quot;&gt;Alert&lt;/span&gt;.&lt;span style=&quot;color: #ce6700;&quot;&gt;alert&lt;/span&gt;(&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;veuillez saisir une chaine de caractère&#39;&lt;/span&gt;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;return&lt;/span&gt;;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #6089b4;&quot;&gt;userMsg&lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #9b0000;&quot;&gt;Message&lt;/span&gt; &lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;id&lt;/span&gt;: &lt;span style=&quot;color: #c7444a;&quot;&gt;Date&lt;/span&gt;.&lt;span style=&quot;color: #ce6700;&quot;&gt;now&lt;/span&gt;().&lt;span style=&quot;color: #ce6700;&quot;&gt;toString&lt;/span&gt;(),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;text&lt;/span&gt;: &lt;span style=&quot;color: #6089b4;&quot;&gt;question&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;sender&lt;/span&gt;: &lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;user&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; };&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce6700;&quot;&gt;setResponse&lt;/span&gt;((&lt;span style=&quot;color: #6089b4;&quot;&gt;prev&lt;/span&gt;) &lt;span style=&quot;color: #9872a2;&quot;&gt;=&amp;gt;&lt;/span&gt; [&lt;span style=&quot;color: #676867;&quot;&gt;...&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;prev&lt;/span&gt;, &lt;span style=&quot;color: #6089b4;&quot;&gt;userMsg&lt;/span&gt;]);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce6700;&quot;&gt;setQuestion&lt;/span&gt;(&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;&#39;&lt;/span&gt;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce6700;&quot;&gt;setIsTyping&lt;/span&gt;(&lt;span style=&quot;color: #408080;&quot;&gt;true&lt;/span&gt;);&lt;/div&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #6089b4;&quot;&gt;reponse&lt;/span&gt; &lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: #9872a2;&quot;&gt;await&lt;/span&gt; &lt;span style=&quot;color: #ce6700;&quot;&gt;CallAPI&lt;/span&gt;(&lt;span style=&quot;color: #6089b4;&quot;&gt;question&lt;/span&gt;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce6700;&quot;&gt;setIsTyping&lt;/span&gt;(&lt;span style=&quot;color: #408080;&quot;&gt;false&lt;/span&gt;);&lt;/div&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;if&lt;/span&gt; (&lt;span style=&quot;color: #6089b4;&quot;&gt;reponse&lt;/span&gt;) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt; &lt;span style=&quot;color: #6089b4;&quot;&gt;botMsg&lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #9b0000;&quot;&gt;Message&lt;/span&gt; &lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;id&lt;/span&gt;: (&lt;span style=&quot;color: #c7444a;&quot;&gt;Date&lt;/span&gt;.&lt;span style=&quot;color: #ce6700;&quot;&gt;now&lt;/span&gt;() &lt;span style=&quot;color: #676867;&quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color: #6089b4;&quot;&gt;1&lt;/span&gt;).&lt;span style=&quot;color: #ce6700;&quot;&gt;toString&lt;/span&gt;(),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;text&lt;/span&gt;: &lt;span style=&quot;color: #6089b4;&quot;&gt;reponse&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #9872a2;&quot;&gt;sender&lt;/span&gt;: &lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;bot&#39;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; };&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ce6700;&quot;&gt;setResponse&lt;/span&gt;((&lt;span style=&quot;color: #6089b4;&quot;&gt;prev&lt;/span&gt;) &lt;span style=&quot;color: #9872a2;&quot;&gt;=&amp;gt;&lt;/span&gt; [&lt;span style=&quot;color: #676867;&quot;&gt;...&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;prev&lt;/span&gt;, &lt;span style=&quot;color: #6089b4;&quot;&gt;botMsg&lt;/span&gt;]);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; };&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div style=&quot;color: #c5c8c6;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;async&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;function&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce6700;&quot;&gt;CallAPI&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;question&lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #c7444a;&quot;&gt;string&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;){&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;url_post&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;https://october-gumminess-maybe.ngrok-free.dev/webhook/saisie/ask&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;url_test&lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;https://october-gumminess-maybe.ngrok-free.dev/webhook-test/saisie/ask&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;url&lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;https://october-gumminess-maybe.ngrok-free.dev /webhook-test/6a373278-323d-4b33-b85f-b787dca70a78&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;try&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;response&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;await&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;fetch&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;url_post&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;, {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;method&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;POST&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;headers&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;Content-Type&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;application/json&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;body&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #c7444a;&quot;&gt;JSON&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #ce6700;&quot;&gt;stringify&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;({&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;ask&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;question&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;sessionId&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;7633136791&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; })&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; });&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;await&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;response&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #ce6700;&quot;&gt;json&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;();&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;reponse&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;][&lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;output&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;return&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;reponse&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;||&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;Désolé, je n&lt;/span&gt;&lt;span style=&quot;color: #8080ff;&quot;&gt;\&#39;&lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;ai pas compris votre question, pouvez-vous la reformuler ?&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;catch&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;error&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;){&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;return&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;Erreur de communication avec le serveur&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;error&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" id="BUSwYx_iILDVWNsFizwX-113">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="505" width="524.5" x="1290" y="-2150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-114" edge="1" parent="1" source="BUSwYx_iILDVWNsFizwX-97" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="-1942.5" as="sourcePoint" />
+            <mxPoint x="1250" y="-1943.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-115" connectable="0" parent="BUSwYx_iILDVWNsFizwX-114" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-116" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #c5c8c6;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9872a2;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; [&lt;/span&gt;&lt;span style=&quot;color: #6089b4;&quot;&gt;question&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #ce6700;&quot;&gt;setQuestion&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;] &lt;/span&gt;&lt;span style=&quot;color: #676867;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #ce6700;&quot;&gt;useState&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #9aa83a;&quot;&gt;&#39;&#39;&lt;/span&gt;&lt;span style=&quot;color: #c5c8c6;&quot;&gt;);&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="380" x="1600" y="-617.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-117" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: rgb(197, 200, 198); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: rgb(152, 114, 162);&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt; [&lt;/span&gt;&lt;span style=&quot;color: rgb(96, 137, 180);&quot;&gt;response&lt;/span&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(206, 103, 0);&quot;&gt;setResponse&lt;/span&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt;] &lt;/span&gt;&lt;span style=&quot;color: rgb(103, 104, 103);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(206, 103, 0);&quot;&gt;useState&lt;/span&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: rgb(155, 0, 0);&quot;&gt;Message&lt;/span&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt;[]&amp;gt;([...]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(197, 200, 198);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="470" x="1590" y="-450" as="geometry" />
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-118" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1340" y="-520" as="sourcePoint" />
+            <mxPoint x="1580" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-122" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1340" y="-520" as="sourcePoint" />
+            <mxPoint x="1580" y="-430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUSwYx_iILDVWNsFizwX-206" parent="1" style="text;html=1;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" value="Architecture DATA &amp; IA — Plateforme de pilotage scolaire et d&#39;évaluation en ligne" vertex="1">
+          <mxGeometry height="40" width="1260" x="460" y="-300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
